@@ -1,0 +1,69 @@
+.button{
+
+    -fx-background-color: #7c6aa1;
+    -fx-background-radius: 20;
+    -fx-opacity: 0.65;
+}
+.button:hover{
+    -fx-background-color: #524A7B;
+    -fx-background-radius: 20;
+    -fx-opacity: 0.80;
+    /*-fx-font-style: bold;*/
+}
+.button:pressed{
+    -fx-background-color: #2F2b43;
+    -fx-background-radius: 20;
+    -fx-opacity: 1;
+
+}
+.homeBtn{
+    -fx-background-color: #97f3f7;
+    -fx-background-radius: 20;
+    -fx-opacity: 0.65;
+
+}
+.homeBtn:hover{
+
+    -fx-background-color: #6aacf7;
+    -fx-background-radius: 20;
+    -fx-opacity: 0.80;
+
+
+}
+.homeBtn:pressed{
+
+    -fx-background-color: #9165eb;
+    -fx-background-radius: 20;
+    -fx-opacity: 1;
+
+}
+.panelButton{
+    -fx-background-color: #393351;
+    -fx-background-radius: 30 0 0 30;
+}
+.panelButton:hover{
+    -fx-background-color: #524A7B;
+    -fx-background-radius: 30 0 0 30;
+}
+.panelButton:pressed{
+    -fx-background-color: #2F2B43;
+    -fx-background-radius: 30 0 0 30;
+
+}
+.insideButton{
+
+    -fx-background-color: #FA2C56;
+    -fx-background-radius: 20;
+    -fx-opacity: 1;
+}
+.insideButton:hover{
+    -fx-background-color: #FA2C56;
+    -fx-background-radius: 20;
+    -fx-opacity: 0.50;
+}
+.insideButton:pressed{
+    -fx-background-color: #f4dff7;
+    -fx-background-radius: 20;
+    -fx-opacity: 1;
+
+}
